@@ -2,7 +2,7 @@
 A realistic projectile simulator made in Turing as a personal project.
 
 # Try it yourself!
-To access it simply run the 'Kinematics Project V8.exe'.
+Download the folder "Projectile Simulator Executable" then run the file "Kinematics Project V8.exe". 
 
 # To access the source code
 Download and install a version of Turing from http://compsci.ca/holtsoft/ OR a version of Open Turing from http://tristan.hume.ca/openturing/ and access any of the 'Kinematics Project Vx.t' files.
