@@ -1,7 +1,7 @@
 # Projectile-Simulator
 A realistic projectile simulator made in Turing as a personal project.
 
-# To run it
+# Try it yourself!
 To access it simply run the 'Kinematics Project V8.exe'.
 
 # To access the source code
